@@ -1,0 +1,27 @@
+---
+title: "JSC370 Lab 12"
+author: "Tianhui Zhao"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+This is my JSC370 Lab 12 Website.
+
+## Showcasing plots {.tabset}
+
+### Figure 1
+
+```{r echo=FALSE}
+p1_scatter
+```
+
+### Figure 2
+
+```{r echo=FALSE}
+p2_scatter
+```
+
+{-}
+
